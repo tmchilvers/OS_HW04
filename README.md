@@ -1,2 +1,2 @@
-# OS_HW04
-Thread Synchronization assignment for Operating Systems
+# Thread Synchronization
+Two threads (Producer and Consumer) access shared memory and check values against each other simultaneously.
